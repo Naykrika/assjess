@@ -1,0 +1,35 @@
+.killa1 { width: 580px; height: 27px; overflow: hidden; position: absolute; left: 0px; top: 0px; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; }
+.killa2 { width: 0; height: 0; border-top: 15px solid transparent; border-bottom: 12px solid transparent; border-right: 15px solid #fff; position: absolute; left: 276px; } 
+.killa3 { width: 270px; height: 7px; overflow: hidden; font: bold 7px montserrat; color: #000; letter-spacing: 2px; background: #fff; text-transform: uppercase; padding: 10px; position: absolute; right: 0px; } 
+.killa5 { width: 580px; height: 27px; overflow: hidden; position: absolute; right: 0px; top: 123px; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; }
+.killa6 { width: 0; height: 0; border-top: 15px solid transparent; border-bottom: 12px solid transparent; border-left: 15px solid #fff; position: absolute; right: 275px; } 
+.killa7 { width: 270px; height: 7px; overflow: hidden; font: bold 7px montserrat; color: #000; letter-spacing: 2px; background: #fff; text-transform: uppercase; padding: 10px; position: absolute; left: 0px; } 
+.killa8 {
+width: 290px;
+height: 150px;
+overflow: hidden;
+background: url(http://i.imgur.com/7TtokBZ.png);
+position: relative;
+}
+.killa8:hover .killa1 { left: -290px; }
+.killa8:hover .killa5 { right: -290px; }
+.killa8:hover .killa9 { opacity: 1; transition-delay: .5s; }
+.killa9 {
+width: 290px;
+height: 96px;
+background: url(http://i.imgur.com/uE6wuVI.png);
+overflow: hidden;
+position: relative;
+top: 27px;
+opacity: 0;
+-webkit-transition: all 1s;  
+-moz-transition: all 1s;  
+-o-transition: all 1s;  
+transition: all 1s;  
+}
+.killa10 { width: 64px; height: 64px; padding: 5px; border-radius: 100%; border: 1px solid #fff; position: absolute; top: 10px; left: 10px; }
+.killa11 { width: 64px; height: 64px; background-size: cover; background-position: center; border-radius: 100%; }
+.killa12 { width: 64; height: 64px; overflow: hidden; font: bold 7px arial; text-transform: uppercase; letter-spacing: 1px; text-align: justify; color: #777; position: absolute; top: 16px; left: 98px; }
+.killa12 d { color: #000; }
+.killa13 { width: 100; height: 64px; overflow: hidden; position: absolute; top: 16px; right: 13px; }
+.killa img { height: 70px; }
